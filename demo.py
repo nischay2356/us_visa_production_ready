@@ -1,7 +1,7 @@
 from us_visa.logger import logging
 from us_visa.exception import USvisaException
 import sys
-#logging.info('Welcome to custom a log')
+logging.info('Welcome to custom a log')
 
 
 try:
